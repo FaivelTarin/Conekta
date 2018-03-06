@@ -1,0 +1,2 @@
+Rreve explicación de su funcionamiento en el ReadMe.
+Integración de Conekta para realizar pagos con Oxxo y Spei, esta realizado con el lenguaje PHP y su libreria correspondiente, se esta utilizando el API KEY PRIVADA de prueba.
